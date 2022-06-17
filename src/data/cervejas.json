@@ -1,17 +1,222 @@
 [
   {
     "id": "1",
-    "Nome": "Cliente 1",
-    "Idade": "20"
+    "nome": "PAULANER",
+    "tipo": "Trigo",
+    "estilo":"Hefe Weissbier",
+    "pais": "Alemanha",
+    "alcool": "5,5",
+    "IBU": "",
+    "imagem": "",
+    "descricao": "Cerveja leve, com notas de banana e trigo, como uma autêntica Weissbier. Originária da Bavária, Alemanha, a Paulaner é uma cerveja que segue a Lei de Pureza Alemã. O termo Hefe no nome significa que a cerveja não é filtrada, por isso tem cor opaca. De espuma cremosa, é ideal para quem busca uma cerveja de trigo bem equilibrada e, ao mesmo tempo, de preço acessível. A garrafa long neck pode ser uma boa pedida para quem vai experimentar uma cerveja especial pela primeira vez!"
   },
   {
     "id": "2",
-    "Nome": "Cliente 2",
-    "Idade": "20"
+    "nome": "EISENBAHN",
+    "tipo": "Trigo",
+    "estilo":"Weizenbier",
+    "pais": "Brasil",
+    "alcool": "4,8",
+    "IBU": "10",
+    "imagem": "",
+    "descricao" : "A Eisenbahn Weizenbier é uma das cervejas de trigo mais vendidas no Brasil. Não filtrada, conserva o fermento utilizado no processo de fabricação. Além disso, possui notas de banana e cravo, conferindo leveza e autêntico sabor. Uma cerveja que combina com o verão e como uma verdadeira Weiss, ela tem a textura de espuma mais densa, que permanece na boca. Uma boa opção de cerveja nacional e de bom custo-benefício!"
   },
   {
     "id": "3",
-    "Nome": "Cliente 3",
-    "Idade": "20"
+    "nome": "HOERGAARDEN",
+    "tipo": "Trigo",
+    "estilo":"Witbier",
+    "pais": "Bélgica",
+    "alcool": "4",
+    "IBU": "",
+    "imagem": "",
+    "descricao": "Hoergaarden é uma Witbier, cerveja de trigo belga que leva em sua composição casca de laranja, coentro e especiarias. Refrescante, com sabor cítrico e temperado, é uma cerveja muito bem avaliada, ideal para quem busca uma cerveja de trigo leve e pouco alcoólica."
+  },
+  {
+    "id": "4",
+    "nome": "Heineken",
+    "tipo": "Lager",
+    "estilo":"Premium American Lager",
+    "pais": "Holanda",
+    "alcool": "5",
+    "IBU": "19",
+    "imagem": "",
+    "descricao": "Apesar de existirem muitas Lagers e Pilsens que também fariam jus a esta posição, a Heineken é uma cerveja reconhecida mundialmente pela qualidade. Livre de conservantes e aditivos, é uma cerveja natural que entrega refrescância. Isso associado a um amargor mais acentuado que outras American Lagers. Uma cerveja encontrada em qualquer lugar do mundo e que possui, além de popularidade, produção no Brasil. Além disso, possui ótimo custo-benefício, devido ao preço acessível e alta qualidade."
+  },
+  {
+    "id": "5",
+    "nome": "Cacilds",
+    "tipo": "Lager",
+    "estilo":"American Lager",
+    "pais": "Brasil",
+    "alcool": "5",
+    "IBU": "",
+    "imagem": "",
+    "descricao": "A cerveja nacional Cacildis é clara, fácil de beber e feita com puro malte de qualidade. Dourada, de boa espuma e líquido cristalino, apresenta aroma de miolo de pão vindo do malte e frescor floral vindo do lúpulo. É leve e refrescante do jeito que o brasileiro gosta! Considerada uma cerveja artesanal, a Cacildis foi criada em homenagem ao comediante Mussum. Uma cerveja American Lager produzida no Brasil e de preço acessível!"
+  },
+  {
+    "id": "6",
+    "nome": "LEOPOLDINA",
+    "tipo": "Lager",
+    "estilo":"Pilsen",
+    "pais": "Brasil",
+    "alcool": "5",
+    "IBU": "15",
+    "imagem": "",
+    "descricao": "Essa é uma verdadeira cerveja pilsen! A Pilsner Extra da cervejaria Leopoldina não é filtrada, possui baixa fermentação e é bem equilibrada! Brilhante, clara e de colarinho branco, ela leva notas florais e levemente maltadas. Uma cerveja pilsen nacional, refrescante e fácil de beber!"
+  },
+  {
+    "id": "7",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "8",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "9",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "10",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "11",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "12",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "13",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "14",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "15",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "16",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "17",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "18",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "19",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
+  },
+  {
+    "id": "20",
+    "nome": "",
+    "tipo": "",
+    "estilo":"",
+    "pais": "",
+    "alcool": "",
+    "IBU": "",
+    "imagem": "",
+    "descricao": ""
   }
 ]
